@@ -1,4 +1,4 @@
-## Sort!
+# Discussion Questions: Sorting!
 
 All you need to focus on is writing two sorting algorithms. One in ```sorts/insertionSort.js``` and the other in ```sorts/selectionSort.js```.
 
